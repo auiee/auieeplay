@@ -187,6 +187,6 @@ padding: 10px;
                       background: #e1e1e1;
 
         }
-        a:hover {
+        .link:hover {
             text-decoration: underline;
         }
