@@ -174,7 +174,7 @@ padding: 10px;
         li:hover {
         }
 
-        a {
+        .link {
             text-decoration: none;
             color: #0078d7;
             display: block;
